@@ -1,10 +1,10 @@
 # Site settings
-title: Oceantic Blog
+title: Mooreliu Blog
 SEOTitle: 刘义的博客 | Oceantic Blog
 header-img: img/home-bg.jpg
 email: powerfulyi@gmail.com
 description: "刘义，Software Engineer| 这里是刘义的个人博客。"
-keyword: "programmer"
+keyword: "Engineer"
 url: "https://mooreliu.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
