@@ -3,7 +3,7 @@ layout:     post
 title:      "Oceanatic"
 subtitle:   "Hello Newborn"
 date:       2018-12-10 20:00:00
-author:     "Hux"
+author:     "mooreliu"
 header-img: "img/2018-12-10-bg.jpg"
 catalog: true
 tags:
